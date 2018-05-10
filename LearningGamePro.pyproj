@@ -27,10 +27,10 @@
     <Compile Include="Enemy.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="LearningGamePro.py" />
     <Compile Include="Playable.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="LearningGamePro.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Char\" />
